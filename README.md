@@ -1,6 +1,12 @@
 #### 35-sluggram-frontend
 This lab 35, is prepping lab 33 for Heroku Deployment.
 
+
+#### How to get up and running:
+Fork and clone 
+
+Here is my heroku front end url: https://sluggram401-frontend.herokuapp.com/
+
 #### Additions/changes necessary for deployment:
 - We added the following to the package.json, the -p flips our webpack.config to production:
 ```
